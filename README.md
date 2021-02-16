@@ -1,5 +1,5 @@
 # Google-Kick-Start-2021
-__Codes for Google KickStrat 2021.__
+__Codes & Progresses for Google KickStrat 2021.__
 
 ## Repistory Outline
 
