@@ -52,7 +52,7 @@ __Codes for Google KickStrat 2021.__
 ┗ 📄 Problem Name D  
 
 ## Results of Each Round  
-Added when each Round is over.
+Will be added when each Round is over.
 
 ## Upsolving Progress  
 Will be updated when Upsolving is Progressing.
